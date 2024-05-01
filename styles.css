@@ -32,5 +32,8 @@ html{
 
 .Datos{
     display:flex ;
-    margin-bottom: 5px;
+}
+
+.imagen{
+    padding-left: 500px;
 }
