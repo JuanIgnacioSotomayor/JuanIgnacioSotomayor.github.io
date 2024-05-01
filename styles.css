@@ -34,6 +34,14 @@ html{
     display:flex ;
 }
 
+.div4{
+    padding-left: 400px;
+}
+.imagenes{
+    position: relative;
+    display:inline-block;
+}
+
 .imagen{
     padding-left: 500px;
 }
